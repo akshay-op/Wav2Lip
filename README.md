@@ -46,6 +46,9 @@ Getting the weights
 | Visual Quality Discriminator  | Weights of the visual disc trained in a GAN setup | [Link](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/EQVqH88dTm1HjlK11eNba5gBbn15WMS0B0EZbDBttqrqkg?e=ic0ljo) |
 
 Lip-syncing videos using the pre-trained models (Inference)
+
+
+inferencing file was modified to run on videos when some parts dont have face 
 -------
 You can lip-sync any video to any audio:
 ```bash
